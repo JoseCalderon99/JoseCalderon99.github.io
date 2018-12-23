@@ -41,6 +41,14 @@ de fondo o si hay problemas para cargarla */
 
 background-color: #66999;
 }
+.rss{
+	width:40px;
+	height:40px;
+}
+.atom{
+	width: 40px;
+	height: : 40px;
+}
 #foto1{
     display: block;
     height: auto;
